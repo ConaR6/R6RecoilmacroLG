@@ -47,5 +47,7 @@ Scrollock toggles between AR guns and SMG style guns. OFF = AR/Strongrecoil. I p
 Mouse button (4) will start the rapid fire ONLY if you are holding right click. Only when you lift RIGHT CLICK will it stop rapid fire.
 
 -- //// This script moves the mouse down (x) pixels, then sleeps/delays for (x) number of miliseconds, then repeats
+
 -- //// There are only so many pixels, Changing how many pixels the mouse moves is a broad adjustment
+
 -- //// to REFINE the recoil, you need to adjust the SLEEP Settings, or miliseconds between mouse movements
