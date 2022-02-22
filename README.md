@@ -37,3 +37,15 @@ You can leave the box open at this point to test if it is working.
 (if you close the box make sure the very last thing you clicked before launching the game was the profile you would like to be active, in this case 'M4')
 
 STEP 13. Launch R6, on any screen in the game, the menu screen for example, hold 'right click' and then hold left click at the same time on your mouse, your mouse cursor should now move down, if it does not, press capslock on your keyboard.
+
+-- /////////// How it works /////////
+
+Numlock turns the script on or off. If you cant get to work, you probably dont have the logitech profile as PERSISTANT. --Dont like the controls? See bottom.
+
+Scrollock toggles between AR guns and SMG style guns. OFF = AR/Strongrecoil. I personally move Scrolllock to the tab key. Goto bottom to see how.
+
+Mouse button (4) will start the rapid fire ONLY if you are holding right click. Only when you lift RIGHT CLICK will it stop rapid fire.
+
+-- //// This script moves the mouse down (x) pixels, then sleeps/delays for (x) number of miliseconds, then repeats
+-- //// There are only so many pixels, Changing how many pixels the mouse moves is a broad adjustment
+-- //// to REFINE the recoil, you need to adjust the SLEEP Settings, or miliseconds between mouse movements
